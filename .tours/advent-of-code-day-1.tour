@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Advent of Code Day 1",
+  "steps": [
+    {
+      "file": "2025/day_1/day_1.hs",
+      "description": "Here, the goal is that give a list of instructions on how to move a dial, the total number of times the dial ends up being on zero is the solution to the puzzle. In this case, the key to the puzzle is used to unlock a safe that santa has stored all our christmas gifts in so this is lowkey kind of important ",
+      "line": 22
+    },
+    {
+      "file": "2025/day_1/day_1.hs",
+      "description": "To assist in solving this problem, you do need some helper functions created. This one recursively subsracts a fixed harcoded value until the final value is between 0 and 99 inclusive",
+      "line": 51
+    }
+  ],
+  "ref": "main"
+}
